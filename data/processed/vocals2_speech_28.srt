@@ -1,0 +1,3 @@
+1
+00:00:00,000 --> 00:00:03,020
+Đó là các bạn không biết cách để chuyển ý từ đoạn này sang đoạn khác

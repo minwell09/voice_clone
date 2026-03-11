@@ -1,0 +1,3 @@
+1
+00:00:00,000 --> 00:00:03,640
+thì làm như vậy chúng ta sẽ không đáp ứng được yêu cầu của một bài so sánh liên hệ.
